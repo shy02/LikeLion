@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\bin\Debug\LikeLionProject.exe.config
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\bin\Debug\LikeLionProject.exe
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\bin\Debug\LikeLionProject.pdb
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\obj\Debug\LikeLionProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\obj\Debug\LikeLionProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\obj\Debug\LikeLionProject.exe
+C:\Users\User\Desktop\개발\Project\LikeLion\LikeLionProject\LikeLionProject\obj\Debug\LikeLionProject.pdb
